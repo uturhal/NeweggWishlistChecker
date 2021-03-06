@@ -1,2 +1,2 @@
-ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
+ID	COUNTRY	BASE_URL	LIST_URL	LOG_CHANNEL
 1	USA-NG	https://www.newegg.com	https://secure.newegg.com/global/tr-en/wishlist/pd/10546178	-1001471830694
